@@ -61,9 +61,9 @@ address {
   margin: 0 auto;
 }
 
-@media screen and (min-width: 758px) {
+@media screen and (min-width: 768px) {
   .container {
-      max-width: 758px;
+      max-width: 768px;
   }
 }
 
@@ -347,7 +347,7 @@ display: block;
     background-color: var(--ocean);
 }
 
-@media screen and (min-width:758px) {
+@media screen and (min-width:768px) {
   .section-one {
           min-width: 768px;
           height: 436px;
